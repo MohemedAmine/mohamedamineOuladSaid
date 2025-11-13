@@ -68,15 +68,8 @@
   <img src="https://img.shields.io/badge/Neo4j-005C9D?style=for-the-badge&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Big_Data_Pipelines-FF9900?style=for-the-badge" />
 
-  <!-- AI & ML -->
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-00B0AD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-FB8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-FF00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-00FFAA?style=for-the-badge" />
+
 
   <!-- AI/ML Libraries & Tools -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
