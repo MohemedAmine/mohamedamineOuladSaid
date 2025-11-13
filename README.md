@@ -12,7 +12,7 @@
 <h3 align="center">📈 Follow to get new updates</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedamineOuladSaid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MohemedAmine&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
