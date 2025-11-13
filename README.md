@@ -35,9 +35,6 @@
 ---
 
 ### 🧠 Top Technical Skills:
-### 🧰 Top Technical Skills
-### 🧰 Top Technical Skills
-### 🧰 Top Technical Skills
 <p align="center">
 
   <!-- Programming Languages -->
